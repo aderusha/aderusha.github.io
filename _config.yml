@@ -18,7 +18,7 @@ author:
   name:           'Allen Derusha'
   url:            https://derushadigital.com
 
-paginate:         5
+paginate:         10
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
@@ -36,4 +36,5 @@ sidebar_home_link:  true
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: derushadigital
+disqus:
+  shortname: derushadigital
