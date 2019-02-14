@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Derusha Digital Designs
 tagline:          'silly ideas well documented'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      'silly ideas well documented'
 url:              https://derushadigital.com
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"

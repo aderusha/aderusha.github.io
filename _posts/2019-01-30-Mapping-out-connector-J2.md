@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Mapping out connector J2
-tags: Nextion
+tags: 
+  - Nextion
+categories:
+  - Nextion
 ---
 
 On each TJC/Nextion basic panel is a set of 5 pads labeled J2.  Nextion has always been cagey about these pads and tend to delete any posts mentioning them (it's something of a theme with them).  Here's what they look like:

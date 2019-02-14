@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Reverse voltage protection and the moving serial number sticker
-tags: Nextion
+tags: 
+  - Nextion
+categories:
+  - Nextion
 ---
 
 I've been buying a fair number of the Nextion 2.4 LCDs over the past couple years and I noticed that a new PCB version started shipping sometime mid-to-late 2018.  It looked like a typical mid-life product refresh, a couple diodes added on the serial lines, some pieces moved around the board, nothing too drastic.  One thing that seem a bit odd was the relocation of the serial number sticker.  

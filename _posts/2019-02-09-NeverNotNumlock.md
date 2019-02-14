@@ -1,7 +1,11 @@
 ---
 layout: post
 title: NeverNotNumlock
-tags: NeverNotNumlock
+tags: 
+  - NeverNotNumlock
+  - Other Projects
+categories:
+  - Other Projects
 ---
 
 NUMLOCK IS THE DUMBEST KEY AND I HATE IT AND NOW I HAVE DONE SOMETHING ABOUT IT
