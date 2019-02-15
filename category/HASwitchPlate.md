@@ -8,4 +8,4 @@ The HA SwitchPlate is a user-programmable LCD touchscreen you can mount into a [
 
 ![HA SwitchPlate Models](https://github.com/aderusha/HASwitchPlate/blob/master/Documentation/Images/HASwitchPlate_Three_Model_Variations.png?raw=true)
 
-For more details, check out the [https://haswitchplate.com](HASwitchPlate project home page here).
+For more details, check out the [HASwitchPlate project home page](https://haswitchplate.com).
