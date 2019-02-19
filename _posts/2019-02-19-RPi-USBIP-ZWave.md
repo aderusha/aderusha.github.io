@@ -9,7 +9,7 @@ categories:
   - Other Projects
 ---
 
-I started working with Home Assistant using a Raspberry Pi 3 and an [HUSBZ-1](https://amzn.to/2V8DPbX) combo Z-Wave/ZigBee stick which worked well but I have concerns about long-term reliability of SD cards on the Pi and while performance was _OK_, I have a virtualization farm here that provides me much better performance and availability than an RPi could.  The trouble is that I still needed access to the USB stick, and physically plugging it into one of my virtualization hosts would prevent me from moving the Home Assistant VM around in response to performance or availability situations in my farm.
+I started working with Home Assistant using a [Raspberry Pi 3 B+](https://amzn.to/2DWVDjl) and an [HUSBZ-1](https://amzn.to/2V8DPbX) combo Z-Wave/ZigBee stick which worked well (if a little slow).  However, I have concerns about long-term reliability of SD cards on the Pi and while performance was _OK_, I have a virtualization farm here that provides me much better performance and availability than an RPi could.  The trouble is that I still needed access to the USB stick, and physically plugging it into one of my virtualization hosts would prevent me from moving the Home Assistant VM around in response to performance or availability situations in my farm.
 
 # HOWTO: Setup a Raspberry Pi as a USB-over-IP server
 
