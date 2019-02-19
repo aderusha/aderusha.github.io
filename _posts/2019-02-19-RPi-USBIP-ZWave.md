@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HOWTO: Setup a Raspberry Pi as a USB-over-IP server
+title: Setup a Raspberry Pi as a USB-over-IP server
 tags: 
   - Raspberry Pi
   - Home Assistant
