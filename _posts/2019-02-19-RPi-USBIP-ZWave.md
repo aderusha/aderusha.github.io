@@ -67,7 +67,7 @@ After=network.target
 Type=forking
 ExecStart=/usr/sbin/usbipd -D
 ExecStartPost=/bin/sh -c "/usr/sbin/usbip bind --$(/usr/sbin/usbip list -p -l | grep '#usbid=10c4:8a2a#' | cut '-d#' -f1)"
-ExecStop=/bin/sh -c "/usr/sbin/usbip unbind --$(/usr/sbin/usbip list -p -l | grep '#usbid=10c4:8a2a#' | cut '-d#' -f1`); killall usbipd"
+ExecStop=/bin/sh -c "/usr/sbin/usbip unbind --$(/usr/sbin/usbip list -p -l | grep '#usbid=10c4:8a2a#' | cut '-d#' -f1); killall usbipd"
 
 [Install]
 WantedBy=multi-user.target
